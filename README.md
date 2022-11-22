@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ly0kha
+- 👀 I’m interested in Penetration Testing 
+- 🌱 I’m currently learning Javascript and Python
+- 📫 How to reach me: You can't
